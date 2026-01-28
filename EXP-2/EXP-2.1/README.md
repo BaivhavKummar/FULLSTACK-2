@@ -23,7 +23,6 @@ Component libraries provide pre-built, reusable UI components that help develope
 
 ### Output
 <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20101424.png">
-<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20103404.png">
 ---
 # React + Vite
 
