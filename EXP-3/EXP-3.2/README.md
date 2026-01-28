@@ -1,3 +1,22 @@
+---
+
+## Experiment 3.2: Navigation Using Link Component
+
+### Aim
+To implement navigation links in a SPA using React Router's `Link` component.
+
+### Procedure
+1. Import `Link` from `react-router-dom`.
+2. Create navigation links using the `Link` component instead of standard `<a>` tags to prevent page reloads.
+3. Place these links within a navigation bar or menu.
+4. Enable smooth navigation between defined routes.
+
+### Output
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20162156.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20162210.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20162227.png">
+
+---
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,7 +29,3 @@ Currently, two official plugins are available:
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
