@@ -1,17 +1,17 @@
-# React Single Page Application (SPA) Experiments
+# EXP1-React Single Page Application (SPA) Experiments
 
 This repository contains a series of experimental Single Page Applications (SPAs) built with React. Each experiment explores fundamental React concepts and demonstrates different functionalities.
 
 ## Table of Contents
 
-- [Experiment 1: Simple Counter](#experiment-1-simple-counter)
-- [Experiment 2: My To-Do List](#experiment-2-my-to-do-list)
-- [Experiment 3: Theme Toggle SPA](#experiment-3-theme-toggle-spa)
-- [Experiment 4: Simple Form SPA](#experiment-4-simple-form-spa)
+- [Experiment 1.1: Simple Counter](#experiment-1-simple-counter)
+- [Experiment 1.2: My To-Do List](#experiment-2-my-to-do-list)
+- [Experiment 1.3: Theme Toggle SPA](#experiment-3-theme-toggle-spa)
+- [Experiment 1.4: Simple Form SPA](#experiment-4-simple-form-spa)
 
 ---
 
-## Experiment 1: Simple Counter
+## Experiment 1.1: Simple Counter
 
 ### Aim
 To create a basic counter SPA using React.
@@ -27,7 +27,7 @@ To create a basic counter SPA using React.
 
 ---
 
-## Experiment 2: My To-Do List
+## Experiment 1.2: My To-Do List
 
 ### Aim
 To build a functional to-do list SPA using React.
@@ -43,7 +43,7 @@ To build a functional to-do list SPA using React.
 
 ---
 
-## Experiment 3: Theme Toggle SPA
+## Experiment 1.3: Theme Toggle SPA
 
 ### Aim
 To create a SPA that switches between light and dark mode.
@@ -58,7 +58,7 @@ To create a SPA that switches between light and dark mode.
 
 ---
 
-## Experiment 4: Simple Form SPA
+## Experiment 1.4: Simple Form SPA
 
 ### Aim
 To build a basic form SPA using React.
