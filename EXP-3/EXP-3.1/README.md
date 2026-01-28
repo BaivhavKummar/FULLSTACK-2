@@ -1,3 +1,32 @@
+---
+
+## Experiment 3.1: Basic Client-Side Routing Using React Router
+
+### Aim
+To implement basic client-side routing in a Single Page Application using React Router.
+
+### Software Requirements
+- Node.js
+- React
+- React Router DOM
+- Web Browser
+
+### Theory
+Routing in a Single Page Application allows navigation between different views without reloading the page. React Router is a popular library used to handle client-side routing in React applications using components such as `BrowserRouter`, `Routes`, and `Route`. This provides a dynamic and fluid user experience.
+
+### Procedure
+1. Create a React application.
+2. Install `react-router-dom` package.
+3. Wrap the application with `BrowserRouter`.
+4. Define routes using `Routes` and `Route` components, mapping paths to specific components.
+5. Implement basic navigation to test page transitions without a full page reload.
+
+### Output
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111020.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111032.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111056.png">
+
+---
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
