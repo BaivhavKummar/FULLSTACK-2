@@ -12,9 +12,7 @@ To create a card-based UI layout using Bootstrap components. This experiment als
 4. Apply custom CSS for glassmorphism effects.
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20111056.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20103404.png">
 ---
 
 # React + Vite
