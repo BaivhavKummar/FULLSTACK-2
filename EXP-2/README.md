@@ -34,7 +34,6 @@ Component libraries provide pre-built, reusable UI components that help develope
 
 ### Output
 <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20101424.png">
-<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20103404.png">
 ---
 
 ## Experiment 2.2: Card-Based Layout Using Bootstrap
@@ -49,9 +48,7 @@ To create a card-based UI layout using Bootstrap components. This experiment als
 4. Apply custom CSS for glassmorphism effects.
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20111056.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20103404.png">
 ---
 
 ## Experiment 2.3: UI Design Using Material UI Components (Course Dashboard)
@@ -95,7 +92,5 @@ To design a responsive navigation bar using a UI component library and implement
 ### Output
 
 **Routing SPA:**
-  <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20115615.png">
-  <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20115627.png">
-  <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20115637.png">
-  <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20115649.png">
+  <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20155801.png">
+  <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-2/assets2/Screenshot%202026-01-27%20155811.png">
