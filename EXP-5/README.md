@@ -38,9 +38,8 @@ Lazy loading is a technique where components are loaded only when they are requi
 3.  Wrapped the components inside `<Suspense fallback={<div>Loading...</div>}>`.
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111056.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20090337.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20090351.png">
 
 
 ---
@@ -59,9 +58,11 @@ Route-based lazy loading ensures that code associated with a specific URL path i
 4.  Wrapped the `<Routes>` container inside a `<Suspense>` block.
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111056.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20091104.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20091113.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20091123.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20091133.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20091812.png">
 
 ---
 
@@ -135,4 +136,5 @@ function App() {
 ---
 
 ## 🏁 Conclusion
+
 By implementing these two experiments, the application's initial bundle size is minimized, resulting in a faster **First Contentful Paint (FCP)** and an overall improved user experience.
