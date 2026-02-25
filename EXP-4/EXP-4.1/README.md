@@ -18,8 +18,6 @@ In React applications, passing data through multiple components using props can 
 5.  **Consume State**: Use the `useContext()` hook in child components to access the data.
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111056.png">
+ <img src=" <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-4/assets/Screenshot%202026-02-25%20104438.png">">
 
 ---
