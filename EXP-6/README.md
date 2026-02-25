@@ -1,4 +1,4 @@
-This `README.md` is specifically designed for the **Form Handling and Validation** unit, incorporating the detailed password and email requirements you provided in the images.
+
 
 ---
 
@@ -40,9 +40,9 @@ Controlled components are React components in which form data is handled by the 
 5.  Handle form submission using an `onSubmit` event handler.
 
 ### Output
- <img src="">
- <img src="">
- <img src="">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20162259.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20162318.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20162340.png">
 ---
 
 ### Experiment-6.2: Client-Side Form Validation
@@ -71,10 +71,10 @@ Client-side validation ensures the correctness of user data and provides immedia
 4.  Disable the submit button or prevent submission until all fields are valid.
 
 ### Output
- <img src="">
- <img src="">
- <img src="">
- <img src="">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164018.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164032.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164044.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164055.png">
 ---
 
 ## 📁 Project Structure
@@ -119,4 +119,5 @@ const validate = (email, password) => {
 ---
 
 ## 🏁 Conclusion
+
 Through these experiments, we successfully implemented a secure form handling system. We ensured that data is not only captured correctly using **State** but also verified against strict **Security Rules** before being processed by the application.
