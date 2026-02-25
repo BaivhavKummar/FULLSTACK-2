@@ -25,5 +25,9 @@ Client-side validation ensures the correctness of user data and provides immedia
 2.  Define validation functions (using Regular Expressions or conditional logic).
 3.  Store and display error messages in the UI if conditions are not met.
 4.  Disable the submit button or prevent submission until all fields are valid.
-
+### Output
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164018.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164032.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164044.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20164055.png">
 ---
