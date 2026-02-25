@@ -15,9 +15,8 @@ Lazy loading is a technique where components are loaded only when they are requi
 3.  Wrapped the components inside `<Suspense fallback={<div>Loading...</div>}>`.
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111056.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20090337.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-5/assets/Screenshot%202026-02-25%20090351.png">
 
 
 ---
