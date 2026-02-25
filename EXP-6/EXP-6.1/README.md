@@ -18,7 +18,7 @@ Controlled components are React components in which form data is handled by the 
 5.  Handle form submission using an `onSubmit` event handler.
 
 ### Output
- <img src="">
- <img src="">
- <img src="">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20162259.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20162318.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-6/assets/Screenshot%202026-02-25%20162340.png">
 ---
