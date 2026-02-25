@@ -41,9 +41,7 @@ In React applications, passing data through multiple components using props can 
 5.  **Consume State**: Use the `useContext()` hook in child components to access the data.
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111056.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-4/assets/Screenshot%202026-02-25%20104438.png">
 
 ---
 
@@ -61,9 +59,7 @@ Redux is a predictable state container for JavaScript applications. It stores th
 4.  **Dispatch & Select**: Used `useSelector` to read the state and `useDispatch` to trigger actions (increment/decrement).
 
 ### Output
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111020.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111032.png">
- <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-3/assets3/Screenshot%202026-01-27%20111056.png">
+ <img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-4/assets/Screenshot%202026-02-25%20155824.png">
 
 ---
 
@@ -120,3 +116,4 @@ const dispatch = useDispatch();
 
 ## 🏁 Conclusion
 By completing these experiments, we have mastered how to manage state globally. **Context API** is ideal for simple data like themes or auth states, while **Redux** is preferred for complex logic and large-scale applications with frequent state updates.
+
