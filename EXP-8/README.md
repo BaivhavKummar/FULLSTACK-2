@@ -56,41 +56,41 @@ http://localhost:8080/api/students
 ### 1. Project Initialization
 The core routing and business logic are handled via `StudentController`. The application successfully connects to the local MySQL instance via Hibernate on startup.
 
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20154732.png">
 
 ### 2. Initial Database State
 Before performing operations, our MySQL `student` table contains 6 initial records.
 
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20161114.png">
 
 ### 3. Read Operations (GET)
 **Fetching All Students:** Sending a `GET` request retrieves a JSON array of all student records currently in the database.
 
-<img src="">
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20154705.png">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20155216.png">
 
 **Fetching by ID:** We can fetch a specific student. Here, a `GET` request is sent for `id: 5` (Akshara).
 
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20155246.png">
 
 ### 4. Update Operation (PUT)
 We update the student with `id: 5`, changing the name from "Akshara" to **"P.Akshara"**. The API returns the updated JSON object with a `200 OK` status.
 
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20161747.png">
 
 ### 5. Delete Operation (DELETE)
 We trigger a `DELETE` request for `id: 1` (Bhav). The server successfully removes the record and returns a `204 No Content` status code.
 
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20161207.png">
 
 **API Verification:** If we try to send a `GET` request for the deleted student (`id: 1`) again, the server throws a `500 Internal Server Error` because the entity no longer exists in the database.
 
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20161347.png">
 
 ### 6. Final Database State
 Checking MySQL Workbench confirms that our API operations were successful at the database level: `id: 1` has been permanently removed, and `id: 5` reflects the updated name "P.Akshara".
 
-<img src="">
+<img src="https://github.com/BaivhavKummar/FULLSTACK-2/blob/main/EXP-8/assets/Screenshot%202026-03-24%20161828.png">
 
 ---
 
